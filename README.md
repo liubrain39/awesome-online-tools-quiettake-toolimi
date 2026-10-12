@@ -251,7 +251,7 @@ Simple video compression and conversion without watermarks.
 
 ---
 
-## 🎙️ Audio Tools
+## Audio Tools
 
 | Tool Name | Short Description |
 |-----------|-------------------|
